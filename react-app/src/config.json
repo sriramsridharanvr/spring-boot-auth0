@@ -1,6 +1,6 @@
 {
-  "domain": "ycs.us.auth0.com",
-  "clientId": "kverbYaVUrLqCwohFncFAG9tVKjpnr0e",
-  "audience": "https://ycs.us.auth0.com/api/v2/",
+  "domain": "",
+  "clientId": "",
+  "audience": "",
   "scope": "read:current_user"
 }
